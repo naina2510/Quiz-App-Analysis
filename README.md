@@ -33,7 +33,7 @@ A modern **Python-based Quiz Application** built using **CustomTkinter** that al
 
 ---
 
-## 👤 Admin Login
+## 👤 Candidate Login
 
 <img src="assets/admin_login.png" width="900">
 
@@ -54,6 +54,11 @@ A modern **Python-based Quiz Application** built using **CustomTkinter** that al
 ## 🎉 Score Screen
 
 <img src="assets/score_screen.png" width="900">
+
+---
+## 👤 Admin Login
+
+<img src="assets/admin_dashboard.png" width="900">
 
 ---
 
