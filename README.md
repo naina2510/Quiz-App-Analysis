@@ -35,7 +35,7 @@ A modern **Python-based Quiz Application** built using **CustomTkinter** that al
 
 ## 👤 Admin Login
 
-<img src="assets/login_screen.png" width="900">
+<img src="assets/admin_login.png" width="900">
 
 ---
 
@@ -59,19 +59,19 @@ A modern **Python-based Quiz Application** built using **CustomTkinter** that al
 
 ## 📊 Admin Dashboard (Overview)
 
-<img src="assets/Overview_page.png" width="900">
+<img src="assets/Overview.png" width="900">
 
 ---
 
 ## 📈 Detailed Analytics
 
-<img src="assets/DetailedAnalysis_page.png" width="900">
+<img src="assets/Detailed_Analysis.png" width="900">
 
 ---
 
 ## 📋 Records & Export
 
-<img src="assets/Record&Export_page.png" width="900">
+<img src="assets/Record_Export.png" width="900">
 
 ---
 
